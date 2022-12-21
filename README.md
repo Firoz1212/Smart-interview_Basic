@@ -8,3 +8,4 @@ Problems:https://www.hackerrank.com/contests/smart-interviews-basic/challenges/f
 
 
 
+some solution is in python 3 and Some are in c++;
